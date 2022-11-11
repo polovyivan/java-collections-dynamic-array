@@ -1,5 +1,7 @@
 package com.polovyi.ivan.tutorials;
 
+import java.util.List;
+
 public class CustomArrayListImpl<T> implements CustomArrayList<T> {
 
     private static final int DEFAULT_CAPACITY = 5;
